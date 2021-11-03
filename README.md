@@ -13,3 +13,6 @@
 <img align="left" alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img align="left" alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
 -and Assembly!
+
+<br />
+[![CxntBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CxntBerry)](https://github.com/CxntBerry/github-readme-stats)
