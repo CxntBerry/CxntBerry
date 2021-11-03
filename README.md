@@ -15,4 +15,5 @@
 -and Assembly!
 
 <br />
-[![CxntBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CxntBerry)](https://github.com/CxntBerry/github-readme-stats)
+# My Stats:
+[![CxntBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CxntBerry)]
