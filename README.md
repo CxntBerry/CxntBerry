@@ -8,8 +8,8 @@
 <br />
 ### Languages:
 
-[<img align="left" alt ="cpp" width="22px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />][]
-[<img align="left" alt ="js/node" width="22px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />][]
-[<img align="left" alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />][]
-[<img align="left" alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />][]
--Assembly x86
+<img align="left" alt ="cpp" width="22px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />
+<img align="left" alt ="js/node" width="22px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
+<img align="left" alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
+<img align="left" alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
+-and Assembly!
