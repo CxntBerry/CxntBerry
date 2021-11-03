@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other passionate individuals!
 - 📫 How to reach me: [Discord](https://discordapp.com/users/350893170567020545): Zeltric#2518
 <br />
-### Languages:
+-Languages:
 <img alt ="cpp" width="22px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />
 <img alt ="js/node" width="22px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
 <img alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
