@@ -14,6 +14,5 @@
 <img align="left" alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
 -and Assembly!
 
-<br />
-# My Stats:
-[![CxntBerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=CxntBerry&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CxntBerry&count_private=true&theme=tokyonight&showicons=true)]()
