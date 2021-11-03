@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a bitcoin miner
 - 🌱 I’m currently learning memory management and editing in c++
 - 👯 I’m looking to collaborate with other passionate individuals!
-- 📫 How to reach me: [Discord][https://discordapp.com/users/350893170567020545]: Zeltric#2518
+- 📫 How to reach me: [Discord](https://discordapp.com/users/350893170567020545): Zeltric#2518
 <br />
 ### Languages:
 <img alt ="cpp" width="22px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />
