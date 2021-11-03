@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Discord][https://discordapp.com/users/350893170567020545]: Zeltric#2518
 <br />
 ### Languages:
-
+<br />
 <img align="left" alt ="cpp" width="22px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />
 <img align="left" alt ="js/node" width="22px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
 <img align="left" alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
