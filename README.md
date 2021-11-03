@@ -12,6 +12,6 @@
 <img alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
 -and Assembly!
-<br />
-# My Stats:
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CxntBerry&count_private=true&theme=tokyonight&showicons=true)]()
