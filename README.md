@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm CxntBerry (Zeltric)
 
-<!--
-**CxntBerry/CxntBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a senior in high school
+- 🔭 I’m currently working on a bitcoin miner
+- 🌱 I’m currently learning memory management and editing in c++
+- 👯 I’m looking to collaborate with other passionate individuals!
+- 📫 How to reach me: [Discord][https://discordapp.com/users/350893170567020545]: Zeltric#2518
+<br />
+### Languages:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt ="cpp" width="22px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />]
+[<img align="left" alt ="js/node" width="22px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />]
+[<img align="left" alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />]
+[<img align="left" alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />]
+[<img align="left" alt ="asm" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />]
+-Assembly x86
