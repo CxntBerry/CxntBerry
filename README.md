@@ -1,7 +1,7 @@
 ### Hi there, I'm CxntBerry (Zeltric)
 
 ### I'm a senior in high school
-- 🔭 I’m currently working on a bitcoin miner
+- 🔭 I’m currently working on a homework bot
 - 🌱 I’m currently learning memory management and editing in c++
 - 👯 I’m looking to collaborate with other passionate individuals!
 - 📫 How to reach me: [Discord](https://discordapp.com/users/350893170567020545): Zeltric#2518
