@@ -1,8 +1,8 @@
 ### Hi there, I'm CxntBerry (Zeltric)
 
 ### I'm a senior in high school
-- 🔭 I’m currently working on a pixel trainer
-- 🌱 I’m currently learning blockchain technologies in rust
+- 🔭 I’m currently working on blockchain technologies
+- 🌱 I’m currently learning asp.net
 - 👯 I’m looking to collaborate with other passionate individuals!
 - 📫 How to reach me: [Discord](https://discordapp.com/users/350893170567020545): Zeltric#2518
 <br />
